@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Serkin Alexander <serkin.alexander@gmail.com>
+ * @author aSerkin Alexander <serkin.alexander@gmail.com>
  * @license https://github.com/serkin/ymlparser/LICENSE MIT
  */
 
