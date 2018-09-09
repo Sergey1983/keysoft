@@ -1,0 +1,350 @@
+body
+{
+/*    font-family: Arial;
+    text-align: center;
+*/
+}
+
+
+/*table {
+    border-collapse: collapse;
+    width: 100%;
+}*/
+
+/*td, th {
+    padding: 5px;
+    border: 1px solid black;
+}*/
+
+
+/*thead {
+    background-color: #f9f9f9;
+}*/
+
+.container-fluid {
+    margin-top: 10px !important;
+}
+
+.inline-block {
+
+    display: block !important;
+}
+
+.no-padding {
+
+    padding: 0 !important;
+}
+
+.no-padding-left {
+
+    padding-left: 0 !important;
+
+}
+
+.padding-left-10 {
+
+    padding-left:  10px !important;
+
+}
+
+.padding-left-15 {
+
+    padding-left:  15px !important;
+}
+
+.padding-left-14 {
+
+    padding-left:  14px !important;
+}
+
+
+.padding-left-25 {
+
+    padding-left:  25px !important;
+}
+
+.no-padding-right {
+
+    padding-right: 0 !important;
+
+}
+
+.padding-right-15 {
+
+    padding-right:  15px !important;
+}
+
+
+.padding-right-30 {
+
+    padding-right: 30px !important;
+}
+
+.padding-all-10 {
+
+    padding: 10px;
+}
+
+.padding-top-10 {
+
+    padding: 10px;
+}
+
+.form .control-label {
+    padding-top: 7px !important;
+/*    margin-bottom: 18px !important;
+*/}
+
+.form .form-group {
+    padding-right: 0px !important;
+
+}
+
+.alert-validation {
+    color: #d06866;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    padding: 7px;
+    padding-left: inherit;
+    border-radius: 4px;
+    margin-top: 4px;
+}
+
+
+.border {
+
+    border:1px solid grey;
+    border-radius:5px;
+
+}
+
+
+.color-black {
+
+    color: black !important;
+
+}
+
+.color-white {
+
+    color: white !important;
+
+}
+
+.no-margin-bottom {
+
+    margin-bottom: 0 !important;
+}
+
+.no-margin-right {
+
+    margin-left: 0 !important;
+
+}
+
+.margin-bottom-5 {
+
+    margin-bottom: 5px !important;
+}
+
+.no-margin {
+
+    margin: 0 !important;
+}
+
+.margin-bottom-10 {
+
+    margin-bottom: 10px;
+}
+
+.margin-bottom-15 {
+
+    margin-bottom: 15px;
+    
+}
+
+.margin-bottom-25 {
+
+    margin-bottom: 25px;
+}
+
+.margin-top-10 {
+
+    margin-top: 10px;
+    
+}
+
+.margin-top-15 {
+
+    margin-top: 15px;
+    
+}
+
+.margin-top-25 {
+
+    margin-top: 25px;
+    
+}
+
+.margin-left-15 {
+
+    margin-left: 15px;
+}
+
+.no-border {
+
+    border: 0px !important;
+}
+
+.colortext {
+    color: red;
+}
+
+.table-name {
+    text-align: left;
+}
+
+.a-button {
+	text-decoration: none;
+}
+
+.hover {
+	font-weight: bold;
+}
+
+.active {
+	text-decoration: underline;
+}
+
+.SelectAndPager{
+	padding: 5px;
+}
+
+
+
+.inline {
+	display:inline;
+
+}
+
+.input {
+
+    padding: 10px;
+
+}
+
+
+
+[class*=inputs_] {
+
+    border:1px solid grey;
+    margin: 5px auto;
+    border-radius:5px;
+}
+
+.tour {
+
+    border:1px solid grey;
+    margin: 5px auto;
+    border-radius:5px;
+}
+.p-error {
+
+        color: red;
+}
+
+.button-center {
+    width: 30%;
+    margin-left: 30%;
+    margin-right:30%;
+}
+
+.btn-grey {
+
+    background-color: rgba(204, 204, 204, 0.7) !important;
+}
+
+.min-height-20 {
+
+    min-height: 20px !important;
+
+}
+
+.width-25 {
+
+    width: 25% !important;
+}
+
+.white, .white a {
+  color: #fff;
+}
+
+.background-black {
+
+    background-color: #323533;
+}
+
+.background-blue {
+
+    background-color: #5e9cec;
+}
+
+.background-transparent {
+
+    background-color: transparent !important;
+}
+
+.border-color-transparent {
+
+    border-color: transparent !important;
+
+}
+
+
+
+.letter-spacing-035 {
+
+    letter-spacing: 0.35px !important;
+}
+
+.active-breadcrumb {
+
+    background-color: white;
+    pointer-events: none;
+    color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    height: 55px;
+    display: flex !important;
+    align-items: center !important;
+
+}
+
+.filter-form {
+    background-color: #eaeef2;
+    margin-left: 0 !important;
+    padding-bottom: 10px !important;
+    border-radius: 3px;
+}
+
+.datepicker {
+
+    padding-right: 6px !important;
+    padding-left: 6px !important;
+}
+
+.medium-label {
+
+    padding-top: 5px !important;
+    text-decoration: bold;
+    color: #576c78;
+
+}
+
+.heading-div {
+
+    border-bottom: 1px solid black;
+}
+
+/*.datepicker { font-size: 13px !important; }*/
