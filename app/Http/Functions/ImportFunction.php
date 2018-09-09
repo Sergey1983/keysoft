@@ -132,7 +132,7 @@ class ImportFunction
 
   public function refresh_db () {
 
-  	Artisan::call("migrate:refresh");
+  	Artisan::call("migrate:refresh", ["--force"=> true ]);
 
   	return 'База почищена!';
 
